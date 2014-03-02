@@ -1,0 +1,11 @@
+# Logfile created on 2014-03-01 09:10:49 -0500 by logger.rb/41954
+I, [2014-03-01T09:10:49.126889 #8750]  INFO -- : 0:  coderay (1.1.0) from /usr/local/rvm/gems/ruby-2.0.0-p353/specifications/coderay-1.1.0.gemspec
+I, [2014-03-01T09:10:49.156333 #8750]  INFO -- : 0:  method_source (0.8.2) from /usr/local/rvm/gems/ruby-2.0.0-p353/specifications/method_source-0.8.2.gemspec
+I, [2014-03-01T09:10:49.156910 #8750]  INFO -- : 0:  slop (3.4.7) from /usr/local/rvm/gems/ruby-2.0.0-p353/specifications/slop-3.4.7.gemspec
+I, [2014-03-01T09:10:49.157425 #8750]  INFO -- : 0:  pry (0.9.12.6) from /usr/local/rvm/gems/ruby-2.0.0-p353/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-01T09:10:49.157942 #8750]  INFO -- : 0:  rack (1.5.2) from /usr/local/rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-03-01T09:10:49.158410 #8750]  INFO -- : 0:  rack-protection (1.5.2) from /usr/local/rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-01T09:10:49.158813 #8750]  INFO -- : 0:  shotgun (0.9) from /usr/local/rvm/gems/ruby-2.0.0-p353/specifications/shotgun-0.9.gemspec
+I, [2014-03-01T09:10:49.159228 #8750]  INFO -- : 0:  tilt (1.4.1) from /usr/local/rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-03-01T09:10:49.159653 #8750]  INFO -- : 0:  sinatra (1.4.4) from /usr/local/rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-01T09:10:49.160048 #8750]  INFO -- : 0:  bundler (1.5.1) from /usr/local/rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
