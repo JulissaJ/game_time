@@ -1,11 +1,8 @@
 require 'sinatra'
-require 'pry'
 require 'shotgun'
 
 
 get '/' do
-  @board = 'Leader Board'
-  @league = 'NFL'
   erb :index
 end
 
@@ -49,7 +46,5 @@ end
 
 @leaderboard = @leaderboard.sort_by{ |team_name, record| [-record[:w],record[:l]]}
 
-
-  @board = 'Leader Board'
   erb :leaderboard
 end
